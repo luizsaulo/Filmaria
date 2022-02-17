@@ -17,7 +17,7 @@ Simple computer using your preferred operational system, or mobile device; nothi
 
 ## 📌 Version
 
-This is the first version of this page
+This is the first version of this page. It presentes a movie gallary application in which you can select the movies of your preference and save it on a local storage list. You can also integrate the application with the movie trailler page on YouTube.  
 
 ### 🔩 Purpose
 
@@ -27,4 +27,4 @@ The purpose of this project is practice the knowledge acquired in the course and
 https://github.com/luizsaulo/Filmaria.git
 
 ### Project Web Page
-https://luizsaulo.github.io/Filmaria/
+https://saulo-movie-gallery.netlify.app/
